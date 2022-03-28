@@ -1,3 +1,3 @@
 my_name = "Silvia"
-my_subname = "Cecin"
+my_surname = "Cecin"
 my_age = 31
